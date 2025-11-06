@@ -11,11 +11,11 @@
   line-height: var(--main-line-height, 1.3);
 }
 
-.decor-corners {
+.decorated-zone {
   position: relative;
 }
 
-.decor-corners::after {
+.decorated-zone::after {
   content: "";
   position: absolute;
   top: 10px;
@@ -27,7 +27,7 @@
   border-bottom: none;
 }
 
-.decor-corners::before {
+.decorated-zone::before {
   content: "";
   position: absolute;
   bottom: 10px;
