@@ -19,6 +19,6 @@
   border: 1px solid var(--nav-color);
 }
 
-.theme-dark .header__theme-menu-button:hower {
+.theme-dark .header__theme-menu-button:hover {
   --nac-hover-color: rgb(255 0 112 / 0.4);
 }
