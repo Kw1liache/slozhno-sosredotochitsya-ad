@@ -6,7 +6,7 @@
 
 :root.theme-light {
   --page-background-image: url(../images/cover-image-light.png);
-  --main-bg-color: #FFC2E6;
+  --main-bg-color: #FFF1F7;
   --main-text-color: #353430;
   --nav-color: #353430;
   --header-logo-color: #ffc2e6;
@@ -33,7 +33,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --page-background-image: url(../images/cover-image-light.png);
-    --main-bg-color: #FFC2E6;
+    --main-bg-color: #FFF1F7;
     --main-text-color: #353430;
     --nav-color: #353430;
     --header-logo-color: #ffc2e6;
