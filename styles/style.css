@@ -55,6 +55,7 @@
   right: 19px;
   color: var(--accent-color, #ff0070);
   font-size: var(--main-text-size, 18px);
+  display: var(--header-decor-display, block);
 }
 
 .header__decor-element::before {
