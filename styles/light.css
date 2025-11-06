@@ -25,7 +25,7 @@
   border: 1px solid var(--nav-color)
 }
 
-.theme-light .header__theme-menu-button:hower {
+.theme-light .header__theme-menu-button:hover {
   --nac-hover-color: rgb(50 49 45 / 0.4)
 }
 
@@ -53,7 +53,7 @@
     border: 1px solid var(--nav-color)
   }
 
-  .theme-light .header__theme-menu-button:hower {
+  .theme-light .header__theme-menu-button:hover {
     --nac-hover-color: rgb(50 49 45 / 0.4)
   }
 }
